@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NotifyLeads</string>
+    <string name="facebook_app_id">1494780240554408</string>
+    <string name="fb_login_protocol_scheme">fb1494780240554408</string>
+    <string name="RNB_GOOGLE_PLAY_LICENSE_KEY">
+    MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp2H/STaPnMg1+resStmjb0Lw8F71ny35hVGUa0FU0hR1rNQToSYaFwg+0Nm0EUvuGXKc3qfQXFKuSXrOaYveiLOoqNW1Y/0TVajWzHoojfsMWGmybEKwKONHS6g87zOl6dKpeWayOw7OWKi1Dm22t4UF60tPL6l1NU2JH1BswztkuL84wRJH5h5gV1QAgv9eqR9l1y3TdHkHvFi2Gr1KWJy0yzqIXr8sGSF9wZkl1iCl4LTd8Gb8I5kY2gagASxClAfNAQR6jEcCYmaA9rx73n2M4m9O4S8BFpSai/AbiLEfksMTjyuzagnR5W0KgBb8lj5ZuiO2qhpBxyGMJlh+NwIDAQAB
+    <!-- MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt0iVn5QndrU41hGp4z7u0gGFf2FhHO9XZJ4Mt
+    4DNT0YIlIM1lXvaXlQ/mBv8Puub6JiPXwO3wP4+iMweLLBxiKxMMWIYVEZZEFPdXt3AtAV7sSTl6+f83+QU
+    54knOxfTchcwAxXfYvTGlWF81+hlfgEirmKt4V/hPcymldbK2dE5nKkTYOzmy+3j+NDkzMdVPWZyeNVii7Ftybc
+    jleIGfPNl1bFIv29OhcFf5Qw1AwGOgF88D48EDJyo46lwgCdMC42RhLNa7Sh8
+    DqrFY6cCCBKX9Ji2J95A3v5rqjsYM6RFyZqp+ASlzbfyLa7mYvwKZX/BOPZvRn1U4IVarKBAowIDAQAB -->
+    </string>
+</resources>

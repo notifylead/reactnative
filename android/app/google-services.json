@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "566226626870",
+    "firebase_url": "https://facebooklead-fd7b1.firebaseio.com",
+    "project_id": "facebooklead-fd7b1",
+    "storage_bucket": "facebooklead-fd7b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566226626870:android:366dc871447e0254",
+        "android_client_info": {
+          "package_name": "com.newcoasttechnologies.notifyleads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566226626870-nok3mg9i74heimeb4sojror1p54rs8e2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newcoasttechnologies.notifyleads",
+            "certificate_hash": "8297f4ce8d2c84f8542dbafe087fcc4f3a70b973"
+          }
+        },
+        {
+          "client_id": "566226626870-i910brdtv1o44fstfii2mnlk7ls20s2r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "566226626870-nt5ftecjh5icineh60hpck4bg0hvshnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMlo6H9bVxxIwLuKZvGg6M8f4E44vFIjI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566226626870-i910brdtv1o44fstfii2mnlk7ls20s2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

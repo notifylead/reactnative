@@ -1,0 +1,39 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'cd' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for cd
+
+
+pod 'Firebase/Auth', '~> 4.8.1'
+pod 'Firebase/Database', '~> 4.8.1'
+pod 'Firebase/Messaging', '~> 4.8.1'
+pod 'Firebase/Core', '~> 4.8.1'
+pod 'Firebase/Analytics', '~> 4.8.1'
+pod 'Firebase/AdMob', '~> 4.8.1'
+pod 'Firebase/Crash', '~> 4.8.1'
+pod 'Firebase/DynamicLinks', '~> 4.8.1'
+pod 'Firebase/RemoteConfig', '~> 4.8.1'
+pod 'Firebase/Storage', '~> 4.8.1'
+# pod 'FBSDKShareKit'
+# pod 'FBSDKLoginKit'
+# pod 'FBSDKCoreKit'
+# pod 'FacebookSDK'
+
+end
+
+target 'NotifyLeads-tvOS' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for NotifyLeads-tvOS
+
+  target 'NotifyLeads-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

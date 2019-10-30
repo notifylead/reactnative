@@ -28,6 +28,7 @@ Pod/
 #
 build/
 .idea
+.settings
 .gradle
 local.properties
 *.iml

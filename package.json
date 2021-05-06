@@ -34,7 +34,7 @@
     "redux-persist": "^4.8.3",
     "redux-thunk": "^2.2.0",
     "toggle-switch-react-native": "^0.2.0",
-    "underscore": "^1.9.0"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "babel-jest": "22.4.3",
